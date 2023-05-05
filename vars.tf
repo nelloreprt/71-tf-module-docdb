@@ -14,3 +14,5 @@ variable "subnet_ids" {}
 variable "no_of_instances" {}
 
 variable "instance_class" {}
+
+variable "allow_subnets" {}
